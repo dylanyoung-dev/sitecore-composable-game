@@ -1,0 +1,12 @@
+{
+    "image1": {
+        "data": "hwQQABYAAAAAAAAAAADw/////wAAu7u7u7vMu7u7+wCwEd3d3d3Ly8y8/wAbEc3MzNzL27u8/wAbEWxmZsbL27u8/wAbEWzRZsbL27u8/wAbEWxtZsbL27u8/wAbEWxmZsbL27u8/wAbEWxmZsbL27u8/wAbEWxmZsbL27u8/wAbEWxmZsbL27u8/wAbEWxmZsbL27u8/wAbEc3MzNzL27u8/wCwEd3d3d3L28y8/wAAu7u7u7vMu7u7+wAAAAAAAADw/////wA=",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "yourComputer"
+    },
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myImages"
+    }
+}
